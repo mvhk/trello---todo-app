@@ -102,6 +102,10 @@ button {
   background-color: #c0392b;
   border-radius: 10px;
 }
+#container .controls #clear {
+  background-color: #fbff00;
+  border-radius: 10px;
+}
 #container .myCheck {
   opacity: 1;
   border-radius: 10px;
