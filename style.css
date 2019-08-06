@@ -72,7 +72,6 @@ body {
   font-size: 20px;
   padding: 15px;
   box-sizing: border-box;
-  margin-bottom: 20px;
   border: 2px solid #b5c5dd;
   border-radius: 10px;
 }
@@ -103,7 +102,7 @@ button {
   border-radius: 10px;
 }
 #container .controls #clear {
-  background-color: #fbff00;
+  background-color: #ff9900;
   border-radius: 10px;
 }
 #container .myCheck {
